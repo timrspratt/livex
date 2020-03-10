@@ -12,6 +12,10 @@ class ServiceProvider extends ModuleServiceProvider
     {
         Settings::group('Livex', function (SettingGroup $group) {
             $group->boolean('enabled')->default(true);
+            $group->float('still_wine_rate')->default(26.78);
+            $group->float('sparkling_wine_rate')->default(34.30);
+            $group->float('fortified_wine_rate')->default(35.70);
+            $group->integer('litre_calc')->default(9);
         });
     }
 }
