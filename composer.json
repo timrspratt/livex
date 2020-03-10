@@ -4,7 +4,7 @@
     "description": "Livex API integration with Aero Commerce",
     "homepage": "https://www.sypo.uk",
     "require": {
-		"aerocommerce/admin"
+		"aerocommerce/admin": "master"
 	},
     "authors": [
         {
