@@ -1,0 +1,17 @@
+{
+    "name": "sypo/livex",
+    "type": "library",
+    "description": "Livex API integration with Aero Commerce",
+    "homepage": "https://www.sypo.uk",
+    "require": {
+		"aerocommerce/admin"
+	},
+    "authors": [
+        {
+            "name": "Andrew Tanner",
+            "email": "andrew@sypo.uk",
+            "homepage": "http://www.sypo.uk",
+            "role": "Developer"
+        }
+    ],
+}
