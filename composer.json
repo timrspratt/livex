@@ -1,6 +1,6 @@
 {
     "name": "sypo/livex",
-    "type": "library",
+    "type": "project",
     "description": "Livex API integration with Aero Commerce",
     "homepage": "https://www.sypo.uk",
     "require": {
